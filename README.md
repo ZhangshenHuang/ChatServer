@@ -12,8 +12,8 @@ If you have finished environmental configuration, you can run "chmod +x autobuil
 Or if you don't want to configure the project compilation environment, you just want to see the results of the code running, you can change dictionary into bin and run server and client executable programs through command "./ChatServer 127.0.0.1 6000" and "./ChatClient 127.0.0.1 8000" on different terminals.
 
 The functions of each folder are described as follows:
-bin: executable binary files
-build: the compiled intermediate files
-include: header files
-src: source files
-thirdparty: third party files that the project relies on
+1. bin: executable binary files
+2. build: the compiled intermediate files
+3. include: header files
+4. src: source files
+5. thirdparty: third party files that the project relies on

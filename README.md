@@ -1,11 +1,11 @@
 This is a cluster chat server project based on muduo network library written in C++ language.If you want run it on your computer, you have to configure the following environment: 
-1.linux operation system
-2.cmake tool
-3.JSON for Modern C++
-4.boost and muduo network library
-5.mysql
-6.nginx
-7.redis
+1. linux operation system
+2. cmake tool
+3. JSON for Modern C++
+4. boost and muduo network library
+5. mysql
+6. nginx
+7. redis
 
 If you have finished environmental configuration, you can run "chmod +x autobuild.sh && ./autobuild.sh" or change dictionary into build folder and operate according to compile.md on your terminal.
 

@@ -1,4 +1,4 @@
-set -x
+#!/bin/bash
 
 rm -rf `pwd`/build/*
 cd `pwd`/build

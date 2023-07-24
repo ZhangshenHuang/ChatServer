@@ -2,9 +2,9 @@
 #include <muduo/base/Logging.h>
 
 // 数据库配置信息
-static string server = "127.0.0.1";
+static string server = "43.139.58.198";
 static string user = "hzs";
-static string password = "123456";
+static string password = "1";
 static string dbname = "chat";
 
 // 初始化数据库连接

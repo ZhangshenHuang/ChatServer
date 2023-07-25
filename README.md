@@ -15,4 +15,3 @@ The functions of each folder are described as follows:
 3. include: header files
 4. src: source files
 5. thirdparty: part of third party files that the project relies on
-6. end
